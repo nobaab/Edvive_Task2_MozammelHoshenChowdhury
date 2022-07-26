@@ -1,4 +1,4 @@
-# spelling_cheker
+# Speeling Checker Using Flutter
 
 ## Screenshots
 <table align="center">
